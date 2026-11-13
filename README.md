@@ -12,3 +12,4 @@ Random Forest is a machine learning algorithm that combines many decision trees 
 3. The forest combines the trees’ predictions.
 
 It is useful for many prediction tasks, but can be slower and harder to explain than a single tree.
+    
